@@ -1,2 +1,7 @@
 f1 file is added
+<<<<<<< Updated upstream
 f1 line is added in the git
+=======
+bug fix 101
+192
+>>>>>>> Stashed changes
